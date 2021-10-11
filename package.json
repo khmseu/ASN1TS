@@ -1,0 +1,34 @@
+{
+  "name": "asn1ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khmseu/ASN1TS.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kai Henningsen",
+    "email": "kai.extra+asn1ts@gmail.com",
+    "url": "https://github.com/khmseu/ASN1TS"
+  },
+  "contributors": [
+    {
+      "name": "Lev Walkin",
+      "email": "vlm@lionet.info",
+      "url": "http://lionet.info/asn1c/"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/khmseu/ASN1TS/issues"
+  },
+  "homepage": "https://github.com/khmseu/ASN1TS#readme"
+}
