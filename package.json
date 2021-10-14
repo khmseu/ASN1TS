@@ -30,5 +30,18 @@
   "bugs": {
     "url": "https://github.com/khmseu/ASN1TS/issues"
   },
-  "homepage": "https://github.com/khmseu/ASN1TS#readme"
+  "homepage": "https://github.com/khmseu/ASN1TS#readme",
+  "devDependencies": {
+    "jison-gho": "^0.6.1-216"
+  },
+  "dependencies": {
+    "@asn1ts/common": "file:libs/common",
+    "@asn1ts/compiler": "file:libs/compiler",
+    "@asn1ts/doc": "file:doc",
+    "@asn1ts/fix": "file:libs/fix",
+    "@asn1ts/parser": "file:libs/parser",
+    "@asn1ts/print": "file:libs/print",
+    "@asn1ts/runtime": "file:runtime",
+    "@asn1ts/tools": "file:tools"
+  }
 }

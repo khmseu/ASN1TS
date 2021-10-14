@@ -1,4 +1,7 @@
 {
   "name": "@asn1ts/parser",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "scripts": {
+    "mkgrammar": "../../node_modules/.bin/jison -o asn1p_ -E asn1p_y.jison  asn1p_l.jisonlex"
+  }
 }
